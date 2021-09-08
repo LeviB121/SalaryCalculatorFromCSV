@@ -1,8 +1,10 @@
 # SalaryCalculatorFromCSV
-Takes CSV file and calculation type as arguments from the command line. 
+Takes a CSV file and calculation type as arguments from the command line. 
 Parses the csv file for relevant employee information and calculates:
 
-all) Employee salary in dollars, or 
+all) Employee salaries in dollars, 
+
+or 
 
 group) Total salaries grouped by employee roles.
 
