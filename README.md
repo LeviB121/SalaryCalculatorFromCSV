@@ -2,7 +2,7 @@
 Takes a CSV file and calculation type as arguments from the command line. 
 Parses the csv file for relevant employee information and calculates:
 
-all) Employee salaries in dollars, 
+all) Employee salaries in dollars.
 
 or 
 
