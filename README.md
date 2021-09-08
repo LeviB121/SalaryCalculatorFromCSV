@@ -13,11 +13,11 @@ group) Total salaries grouped by employee roles.
 
 * Run the following commands in the terminal: 
 
-** java -jar technicalAssesmentEvident.jar "csv file" all
+  * java -jar technicalAssesmentEvident.jar "csv file" all
 
-or 
+    or 
 
-java -jar technicalAssesmentEvident.jar "csv file" group
+  * java -jar technicalAssesmentEvident.jar "csv file" group
 
 Will need to provide the full path to a CSV file with no quotes.
 
