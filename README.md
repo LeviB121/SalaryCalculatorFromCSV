@@ -13,7 +13,7 @@ group) Total salaries grouped by employee roles.
 
 * Run the following commands in the terminal: 
 
-java -jar technicalAssesmentEvident.jar "csv file" all
+** java -jar technicalAssesmentEvident.jar "csv file" all
 
 or 
 
