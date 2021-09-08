@@ -6,7 +6,9 @@ b.) Total salariesgrouped by employee roles.
 Running the app: 
 
 java -jar technicalAssesmentEvident.jar /home/levi/Documents/employees.csv a
+
 or 
+
 java -jar technicalAssesmentEvident.jar /home/levi/Documents/employees.csv b
 
 Will need to provide the full path to the CSV file.
