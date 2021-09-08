@@ -14,6 +14,8 @@ or
 
 java -jar technicalAssesmentEvident.jar "csv file" group
 
-Will need to provide the full path to the CSV file with no quotes.
+Will need to provide the full path to a CSV file with no quotes.
+
+CSV Schema: Name,Rate,Hours,Role
 
 
