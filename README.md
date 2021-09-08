@@ -4,9 +4,9 @@ Parses the csv file for relevant employee information and calculates:
 
 a.) Employee salary in dollars, or 
 
-b.) Total salariesgrouped by employee roles.
+b.) Total salaries grouped by employee roles.
 
-Running the app: 
+# Running the app: 
 
 java -jar technicalAssesmentEvident.jar "csv file" a
 
