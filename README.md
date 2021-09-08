@@ -9,6 +9,9 @@ or
 group) Total salaries grouped by employee roles.
 
 # Running the app: 
+Download the technicalAssesmentEvident.jar
+
+Run the following commands in the terminal: 
 
 java -jar technicalAssesmentEvident.jar "csv file" all
 
